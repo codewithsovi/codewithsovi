@@ -1,30 +1,51 @@
-# 👋 Halo, aku Sovi
-Aku punya rasa ingin tahu yang besar dan sedang belajar membangun berbagai hal lewat kode.  
-Lebih suka fokus ke proses, berkembang pelan-pelan, dan konsisten setiap hari.
+## Hello World!
 
-## 🎯 Tujuan
-Menjadi versi diri yang lebih baik lewat belajar, mencoba, gagal, lalu belajar lagi.  
-Pelan bukan berarti berhenti.
+![banner](img/github-header-banner(1).png)
 
-## 📌 Catatan
-Repo di sini adalah bagian dari proses belajarku.  
-Masih berkembang, masih belajar, dan akan terus jalan.
+### </> Notes
+
+<p align="left">📚 Repositories here are part of my learning journey.<br>Still growing, still learning, and moving forward..</p>
+
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+</div>
+
+###
+
+<h2 align="left">Play Game with me</h2>
+
+###
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codewithsovi/codewithsovi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codewithsovi/codewithsovi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/codewithsovi/codewithsovi/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 ---
 ✨ *learning every day, quietly but seriously*
-
-
-<!--
-**codewithsovi/codewithsovi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
