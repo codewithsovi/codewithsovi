@@ -1,6 +1,6 @@
 ## Hello World!
 
-![banner](img/github-header-banner(1).png)
+![banner](img/github-header-banner(2).png)
 
 ### </> Notes
 
@@ -36,7 +36,6 @@
 <h2 align="left">Play Game with me</h2>
 
 ###
-
 ###
 
 <picture>
